@@ -1,0 +1,9 @@
+# mac file
+.DS_Store
+.ipynb_checkpoints/
+
+#plot folder
+plots/
+
+
+
