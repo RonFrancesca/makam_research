@@ -20,4 +20,21 @@ Consistent correlation variation acros smakams are also identified.
 In addition, our work goes  further  to  assess  the  extent  to  which  pitch  is  used to  reinforce  
 metrical  structure  in makam (to  the  best  ofour knowledge,  not previously addressed in past works).
 Although no immediate patterns are identified, we suggest subsequent developments which could be made in future works  to 
-further  explore  the  role  of  pitch  in  metricalreinforcement. 
+further  explore  the  role  of  pitch  in  metrical reinforcement.
+
+## Getting Started
+
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
+
+### Prerequisites
+
+In order to use these tools you have to install python and the following modules: music21, numpy, matplotlib, scipy 
+
+In Ubuntu in order to install all these modules it is as simple as typing in the Terminal:
+
+$ sudo apt-get install python-dev python-numpy python-matplotlib python-scipy 
+
+In OSX you install these modules by typing in the Terminal:
+
+$ brew install python
+$ pip install numpy matplotlib scipy cython
