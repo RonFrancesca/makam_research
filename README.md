@@ -31,10 +31,13 @@ These instructions will get you a copy of the project up and running on your loc
 In order to use these tools you have to install python and the following modules: music21, numpy, matplotlib, scipy 
 
 In Ubuntu in order to install all these modules it is as simple as typing in the Terminal:
-
+```
 $ sudo apt-get install python-dev python-numpy python-matplotlib python-scipy 
+```
 
 In OSX you install these modules by typing in the Terminal:
 
+```
 $ brew install python
 $ pip install numpy matplotlib scipy cython
+
