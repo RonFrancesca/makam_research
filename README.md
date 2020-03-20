@@ -39,5 +39,17 @@ In OSX you install these modules by typing in the Terminal:
 
 ```
 $ brew install python
-$ pip install numpy matplotlib scipy cython
+$ pip install numpy matplotlib scipy cyth
+````
+
+### Jupyter Notebook instructions
+Install Jupyter Notebook according to it's instructions https://jupyter.org/install
+
+Start up jupyter notebook
+
+```
+$ jupyter notebook
+```
+
+Follow instructions appearing in the console regarding navigating your browser to the notebook
 
