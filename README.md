@@ -35,6 +35,7 @@ In order to use these tools you have to install python and the following modules
 In Ubuntu in order to install all these modules it is as simple as typing in the Terminal:
 ```
 $ sudo apt-get install python-dev python-numpy python-matplotlib python-scipy 
+$ pip install music21
 ```
 
 In OSX you install these modules by typing in the Terminal:
@@ -42,6 +43,7 @@ In OSX you install these modules by typing in the Terminal:
 ```
 $ brew install python
 $ pip install numpy matplotlib scipy 
+$ pip install music21
 ````
 
 ### Copy or Downlaod the repository 
