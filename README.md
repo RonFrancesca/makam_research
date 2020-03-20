@@ -42,6 +42,14 @@ $ brew install python
 $ pip install numpy matplotlib scipy cyth
 ````
 
+### Copy or Downlaod the repository 
+
+Copy or download the repository. 
+It contains a jupyter notebook, please read Jupyter Notebook instruction for how to run it.
+
+The dataset can be downlaoded at the following links:
+
+
 ### Jupyter Notebook instructions
 Install Jupyter Notebook according to it's instructions https://jupyter.org/install
 
@@ -52,4 +60,8 @@ $ jupyter notebook
 ```
 
 Follow instructions appearing in the console regarding navigating your browser to the notebook
+
+## Authors 
+- Francesca Ronchini
+- Dougal Shakespeare
 
