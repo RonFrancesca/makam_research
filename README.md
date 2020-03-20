@@ -49,7 +49,7 @@ It contains a jupyter notebook, please read Jupyter Notebook instruction for how
 
 The dataset can be downlaoded at the following links:
 - download the full pdf score dataset here: https://github.com/MTG/SymbTr-pdf 
-- download the full xml files dataset - here: https://github.com/MTG/SymbTr/releases/tag/v2.4.3
+- download the full xml files dataset here: https://github.com/MTG/SymbTr/releases/tag/v2.4.3
 
 
 ### Jupyter Notebook instructions
