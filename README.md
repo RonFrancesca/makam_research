@@ -39,7 +39,7 @@ In OSX you install these modules by typing in the Terminal:
 
 ```
 $ brew install python
-$ pip install numpy matplotlib scipy cyth
+$ pip install numpy matplotlib scipy 
 ````
 
 ### Copy or Downlaod the repository 
