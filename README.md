@@ -1,7 +1,7 @@
 # Makam Research
 
 This repo contains a jupyter notebook for the research:
-EXPLORING FURTHER RELATIONS OF METRICAL STRENGTH ANDPITCH RELATIONS IN TURKISH MAKAM MUSIC 
+EXPLORING FURTHER RELATIONS OF METRICAL STRENGTH AND PITCH RELATIONS IN TURKISH MAKAM MUSIC 
 
 In this research we further develop the research of Holzapfelet et al [1]
 exploring  the  reinforcement  of  meter  in  the music of Turkish Makam. 
