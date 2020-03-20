@@ -65,6 +65,9 @@ $ jupyter notebook
 
 Follow instructions appearing in the console regarding navigating your browser to the notebook
 
+# License
+This project is licensed under a Creative Commons Attribution 4.0 International License (CC BY4.0). Attribution:Dougal Shakespeare, Francesca Ronchini.  “Exploring Further Relations of Metrical Strength and Pitch Relations in Turkish Makam music”. 
+
 ## Authors 
 - Francesca Ronchini
 - Dougal Shakespeare
