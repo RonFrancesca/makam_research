@@ -32,13 +32,13 @@ These instructions will get you a copy of the project up and running on your loc
 
 In order to use these tools you have to install python and the following modules: music21, numpy, matplotlib, scipy 
 
-In Ubuntu in order to install all these modules it is as simple as typing in the Terminal:
+In Ubuntu the user can install all these modules it is as simple as typing in the Terminal:
 ```
 $ sudo apt-get install python-dev python-numpy python-matplotlib python-scipy 
 $ pip install music21
 ```
 
-In OSX you install these modules by typing in the Terminal:
+In OSX the user can install these modules by typing in the Terminal:
 
 ```
 $ brew install python
@@ -66,6 +66,11 @@ $ jupyter notebook
 ```
 
 Follow instructions appearing in the console regarding navigating your browser to the notebook
+
+### MuseScore 
+
+The user will also need a score editor to follow the examples. 
+MuseScore (suggested) could be download at the following link: https://musescore.org
 
 # License
 This project is licensed under a Creative Commons Attribution 4.0 International License (CC BY4.0). Attribution:Dougal Shakespeare, Francesca Ronchini.  “Exploring Further Relations of Metrical Strength and Pitch Relations in Turkish Makam music”. 
