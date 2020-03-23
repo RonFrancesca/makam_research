@@ -9,7 +9,7 @@ Our research follows a similar methodology to that described by Holzapfel,
 deriving note onset  distributions  which  we  subsequently  correlate  to 
 weighted usul histograms used  to  formalise  meter.   
 
-In partcicular, we aim to answer three main questions:
+In particular, we aim to answer three main questions:
 RQ1 - To  what  extent  are  the  findings  andconclusions drawn in Holzapfel et al’s work reproducible on  a different  data-set?   
 RQ2 - To  what degree  does thechoice ofmakamalso act to reinforce or diminish metricalstrength?  
 RQ3 - To what extent do pitch relations acrossmakamswith differingusulsact to also reinforce metre?
@@ -49,7 +49,7 @@ $ pip install music21
 ### Copy or Download the repository 
 
 Copy or download the repository. 
-It contains a jupyter notebook, please read Jupyter Notebook instruction to change directories paths and run the notebook correctly.
+It contains a jupyter notebook, please read Jupyter Notebook instruction to properly change directories paths and run the notebook correctly.
 
 Command to copy the repository:
 ```
