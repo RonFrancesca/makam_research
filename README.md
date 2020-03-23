@@ -30,7 +30,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-In order to use these tools you have to install python and the following modules: music21, numpy, matplotlib, scipy 
+In order to run the notebook correctly the user has to install python and the following modules: music21, numpy, matplotlib, scipy 
 
 In Ubuntu the user can install all these modules it is as simple as typing in the Terminal:
 ```
