@@ -46,7 +46,7 @@ $ pip install numpy matplotlib scipy
 $ pip install music21
 ````
 
-### Copy or Downlaod the repository 
+### Copy or Download the repository 
 
 Copy or download the repository. 
 It contains a jupyter notebook, please read Jupyter Notebook instruction for how to run it.
