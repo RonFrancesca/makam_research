@@ -62,7 +62,7 @@ The dataset can be downlaoded at the following links:
 
 
 ### Jupyter Notebook instructions
-Install Jupyter Notebook according to it's instructions https://jupyter.org/install
+Install Jupyter Notebook according to the its instructions https://jupyter.org/install
 
 Start up jupyter notebook
 
