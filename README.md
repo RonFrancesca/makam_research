@@ -46,12 +46,12 @@ $ pip install numpy matplotlib scipy
 $ pip install music21
 ````
 
-### Copy or Download the repository 
+### Clone or Download the repository 
 
-Copy or download the repository. 
+Clone or download the repository. 
 It contains a jupyter notebook, please read Jupyter Notebook instruction to properly change directories paths and run the notebook correctly.
 
-Command to copy the repository:
+Command to clone the repository:
 ```
 $ git clone https://github.com/RonFrancesca/makam_research.git
 ```
