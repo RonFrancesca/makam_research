@@ -22,7 +22,7 @@ metrical  structure  in makam (to  the  best  ofour knowledge,  not previously a
 Although no immediate patterns are identified, we suggest subsequent developments which could be made in future works  to 
 further  explore  the  role  of  pitch  in  metrical reinforcement.
 
-[1] > Andre Holzapfel and Barıs  Bozkurt. Metrical strength and contradiction in turkish makam music. In Proceedings of the 2nd CompMusic Workshop; 2012 July 12-13, pages 79–84, 2012. http://mtg.upf.edu/node/3886
+> Andre Holzapfel and Barıs  Bozkurt. Metrical strength and contradiction in turkish makam music. In Proceedings of the 2nd CompMusic Workshop; 2012 July 12-13, pages 79–84, 2012. http://mtg.upf.edu/node/3886
 
 ## Getting Started
 
