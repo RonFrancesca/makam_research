@@ -55,8 +55,7 @@ $ pip install numpy matplotlib scipy pandas
 $ pip install music21
 ````
 
-In Windows: 
-Please, refer to this link to install python on your local machine: https://docs.python.org/3/using/windows.html
+In Windows the user can refer to this link to install python on your local machine: https://docs.python.org/3/using/windows.html
 
 ```
 $ pip install pandas numpy scipy matplotlib music21
