@@ -41,13 +41,13 @@ $ pip install -r requirements.txt
 
 Otherwise, you can manually install the single modules with the following commands: 
 
-In Ubuntu the user can install all these modules it is as simple as typing in the Terminal:
+In Ubuntu the user can install all these modules it is as simple as typing on the Terminal:
 ```
 $ sudo apt-get install python-dev python-numpy python-matplotlib python-scipy python-pandas
 $ pip install music21
 ```
 
-In OSX the user can install these modules by typing in the Terminal:
+In OSX the user can install these modules by typing on the Terminal:
 
 ```
 $ brew install python
@@ -55,7 +55,7 @@ $ pip install numpy matplotlib scipy pandas
 $ pip install music21
 ````
 
-In Windows the user can refer to this link to install python on your local machine: https://docs.python.org/3/using/windows.html
+In Windows the user can refer to this link to install python on your local machine: https://docs.python.org/3/using/windows.html and install the other modules by typing on the Terminal: 
 
 ```
 $ pip install pandas numpy scipy matplotlib music21
