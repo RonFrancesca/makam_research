@@ -31,7 +31,15 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-Python and the following modules are necessary to run the notebook correctly: music21, numpy, matplotlib, scipy 
+Python and the following modules are necessary to run the notebook correctly: music21, numpy, matplotlib, scipy and pandas. 
+
+You can install the modules required simply running (the file requiremennts.txt) is in the repository
+
+```
+$ pip install -r requirements.txt
+```
+
+Otherwise, you can manually install the single modules with the following commands: 
 
 In Ubuntu the user can install all these modules it is as simple as typing in the Terminal:
 ```
@@ -46,6 +54,13 @@ $ brew install python
 $ pip install numpy matplotlib scipy pandas
 $ pip install music21
 ````
+
+In Windows: 
+Please, refer to this link to install python on your local machine: https://docs.python.org/3/using/windows.html
+
+```
+$ pip install pandas numpy scipy matplotlib music21
+```
 
 ### Clone or Download the repository 
 
