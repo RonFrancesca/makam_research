@@ -35,7 +35,7 @@ Python and the following modules are necessary to run the notebook correctly: mu
 
 In Ubuntu the user can install all these modules it is as simple as typing in the Terminal:
 ```
-$ sudo apt-get install python-dev python-numpy python-matplotlib python-scipy 
+$ sudo apt-get install python-dev python-numpy python-matplotlib python-scipy python-pandas
 $ pip install music21
 ```
 
@@ -43,7 +43,7 @@ In OSX the user can install these modules by typing in the Terminal:
 
 ```
 $ brew install python
-$ pip install numpy matplotlib scipy 
+$ pip install numpy matplotlib scipy pandas
 $ pip install music21
 ````
 
