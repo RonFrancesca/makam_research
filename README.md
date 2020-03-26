@@ -33,11 +33,12 @@ These instructions will get you a copy of the project up and running on your loc
 
 Python and the following modules are necessary to run the notebook correctly: music21, numpy, matplotlib, scipy and pandas. 
 
-You can install the modules required simply running (the file requiremennts.txt) is in the repository
+You can install the modules required simply typing on the Terminal the following command: 
 
 ```
 $ pip install -r requirements.txt
 ```
+(the file requiremennts.txt is in the repository)
 
 Otherwise, you can manually install the single modules with the following commands: 
 
