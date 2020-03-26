@@ -33,7 +33,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 Python and the following modules are necessary to run the notebook correctly: music21, numpy, matplotlib, scipy and pandas. 
 
-You can install the modules required simply typing on the Terminal the following command: 
+You can install the modules required simply typing on the terminal the following command: 
 
 ```
 $ pip install -r requirements.txt
@@ -42,13 +42,13 @@ $ pip install -r requirements.txt
 
 Otherwise, you can manually install the single modules with the following commands: 
 
-In Ubuntu the user can install all these modules it is as simple as typing on the Terminal:
+In Ubuntu the user can install all these modules it is as simple as typing on the terminal:
 ```
 $ sudo apt-get install python-dev python-numpy python-matplotlib python-scipy python-pandas
 $ pip install music21
 ```
 
-In OSX the user can install these modules by typing on the Terminal:
+In OSX the user can install these modules by typing on the terminal:
 
 ```
 $ brew install python
